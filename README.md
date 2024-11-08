@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Anuj Srivastava</h1>
 <h3 align="center">Proficient in Java | MERN Stack | Passionate about DSA and Backend Development</h3>
 
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsrivastava21" alt="anujsrivastava21" /></a> </p>
 
-- 🌱 I’m currently learning **React, Pandas, Numpy**
+- 🌱 I’m currently learning **Springboot, Microservices, Java Backend**
 
 - 💬 Ask me about **Java | MERN | Backend Development**
 
