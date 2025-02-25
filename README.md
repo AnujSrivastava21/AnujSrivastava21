@@ -4,15 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsrivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="anujsrivastava21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsrivastava21" alt="anujsrivastava21" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot, Microservices, Java Backend**
+- 🌱 I’m currently learning **React, Frontend, Java backend**
 
 - 💬 Ask me about **Java | MERN | Backend Development**
 
 - 📫 How to reach me **anujsrivastava743@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pDQg2sLENohGYKHeKJ4oOG7tWKHMwYCR/view?usp=sharing](https://drive.google.com/file/d/1pDQg2sLENohGYKHeKJ4oOG7tWKHMwYCR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q_qK9a8_n4m0pif4I3kAgcSF0BvZOHN6/view?usp=drive_link)
 
 - ⚡ Fun fact **I think coding is hard**
 
