@@ -5,13 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsrivastava21&label=Profile%20views&color=0e75b6&style=flat" alt="anujsrivastava21" /> </p>
 
 
-- 🌱 I’m currently learning **React, Frontend, Java backend**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Java | MERN | Backend Development**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **anujsrivastava743@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q_qK9a8_n4m0pif4I3kAgcSF0BvZOHN6/view?usp=drive_link)
+-  - 📄 Know about my experiences [[https://drive.google.com/file/d/1q_qK9a8_n4m0pif4I3kAgcSF0BvZOHN6/view?usp=drive_link](https://drive.google.com/file/d/1IPZ7h1HcsaD2RGrb8JJ_7hLFCx-aNqNo/view?usp=share_link))
 
 - ⚡ Fun fact **I think coding is hard**
 
